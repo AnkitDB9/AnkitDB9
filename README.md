@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/181OuUO7eI8dSXG_ZnjIlUDML3EsyN2iJ/view?usp=sharing](https://drive.google.com/file/d/181OuUO7eI8dSXG_ZnjIlUDML3EsyN2iJ/view?usp=sharing)
 
-- ⚡ Fun fact **sense of humour**
+- ⚡ Fun fact **sense of humour, Black belt taekwon-do/karate **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
