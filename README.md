@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ankitsharma77753@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/181OuUO7eI8dSXG_ZnjIlUDML3EsyN2iJ/view?usp=sharing](https://drive.google.com/file/d/181OuUO7eI8dSXG_ZnjIlUDML3EsyN2iJ/view?usp=sharing)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **sense of humour, Black belt taekwon-do/karate **
 
