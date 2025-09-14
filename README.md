@@ -23,53 +23,14 @@
 
 ---
 
-<h3 align="left">🌐 Connect with Me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/11e/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://leetcode.com/ankit77753/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" /></a>
-</p>
-
----
-
 <h3 align="left">🚀 Companies I've Worked With</h3>
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Airtel_Logo.svg/2560px-Airtel_Logo.svg.png" alt="airtel" height="40" />
-  <img src="https://mma.prnewswire.com/media/2352174/Personify_Health_Logo.jpg?p=facebook" alt="personify" height="40"/>
+  <img src="https://companieslogo.com/img/orig/BHARTIARTL.BO_BIG-7d9e34a4.png?t=1633074041" alt="airtel" height="40" />
+  <img src="https://media.licdn.com/dms/image/D4D0BAQFpTqBkDFxDqA/company-logo_200_200/0/1710157545337/personifyhealth_logo?e=2147483647&v=beta&t=RMEgFtU3_1Sk9p7XtaT0lWq2GD16kYZiU6khUvDi6uk" alt="personify" height="40"/>
   <img src="https://media.licdn.com/dms/image/C560BAQEq8t5_UYB1TA/company-logo_200_200/0/1630647997020/themathcompany_logo?e=2147483647&v=beta&t=1iAbL8gaKiKTRa9rsLuwhZ8ge8IKi5ewMcwYc_gfpUg" alt="themathcompany" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Accenture.svg" alt="accenture" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Accenture.svg/512px-Accenture.svg.png" alt="accenture" height="40"/>
 </p>
-
----
-
-<h3 align="left">🛠️ My Tech Stack</h3>
-
-<h4>👨‍💻 Programming & Scripting</h4>
-<p><img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash,html,css,javascript" /></p>
-
-<h4>📊 Data Engineering & Big Data</h4>
-<p><img src="https://skillicons.dev/icons?i=spark,hadoop,kafka,airflow,docker,kubernetes,git,linux" /></p>
-
-<h4>☁️ Cloud & DevOps</h4>
-<p><img src="https://skillicons.dev/icons?i=aws,gcp,azure" /></p>
-
-<h4>🧠 Machine Learning & DS</h4>
-<p><img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,tensorflow,matplotlib,seaborn" /></p>
-
-<h4>🗃️ Databases & Storage</h4>
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle,sqlite" /></p>
-
-<h4>📡 APIs, Messaging & Orchestration</h4>
-<p><img src="https://skillicons.dev/icons?i=postman,graphql" /></p>
-
-<h4>🔗 Real-Time Sources I’ve Integrated</h4>
-<ul>
-  <li>PostgreSQL (CDC using Debezium)</li>
-  <li>Kafka Topics (Protobuf/Avro)</li>
-  <li>Cassandra / MongoDB</li>
-  <li>REST APIs / Webhooks</li>
-  <li>Files from AWS S3 / GCS / Azure Blob</li>
-</ul>
 
 ---
 
@@ -87,8 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ankitsharma97&show_icons=true&theme=gruvbox" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsharma97&layout=compact&theme=gruvbox" />
 </p>
-
----
-
-<h3 align="center">❤️ Passionate about building intelligent systems for a better tomorrow.</h3>
-<p align="center"><i>“Code with purpose. Deploy with confidence. Scale with heart.”</i></p>
