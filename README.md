@@ -37,13 +37,13 @@
 ## 🚀 Companies I've Worked With
 
 <div align="center">
-  <img src="https://logos-world.net/wp-content/uploads/2020/12/Airtel-Logo.png" alt="Airtel" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/airtel/airtel-icon.svg" alt="Airtel" height="50" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48v8chtand" alt="Personify Health" height="50"/>
+  <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGQs8VKvF8Z8A/company-logo_100_100/company-logo_100_100/0/1630570738434/personify_health_logo?e=1738800000&v=beta&t=abc123" alt="Personify Health" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1397755734/b18f6abb36c19b2dcbcf36bb7bb5de11.png" alt="The Math Company" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mathworks/mathworks-icon.svg" alt="The Math Company" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/2560px-Accenture.svg.png" alt="Accenture" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/accenture/accenture-icon.svg" alt="Accenture" height="50"/>
 </div>
 
 ---
@@ -53,13 +53,13 @@
 <div align="center">
   
 ### 🔄 My Streaming Data Pipeline
-<img src="https://raw.githubusercontent.com/ankitsharma97/streaming-architecture/main/streaming-pipeline.png" alt="Streaming Pipeline Architecture" width="85%" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*fLFnmpKJfrvZRh-Jrl8wPg.png" alt="Streaming Pipeline Architecture" width="85%" />
 
 ### 🏗️ Architecture Components
-<img src="https://kafka.apache.org/images/logo.png" alt="Kafka" height="40"/>
-<img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Spark" height="40"/>
-<img src="https://logos-world.net/wp-content/uploads/2022/02/Snowflake-Symbol.png" alt="Snowflake" height="40"/>
-<img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Airflow" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" height="40"/>
 
 **Real-time ETL Pipeline:** Kafka → Spark Streaming → Snowflake → Analytics Dashboard
 
@@ -80,12 +80,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" height="40"/>
 
 ### Big Data & Streaming
-<img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Apache Spark" height="40"/>
-<img src="https://kafka.apache.org/images/logo.png" alt="Apache Kafka" height="40"/>
-<img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Apache Airflow" height="40"/>
-<img src="https://hadoop.apache.org/elephant.png" alt="Hadoop" height="40"/>
-<img src="https://databricks.com/wp-content/uploads/2021/10/db-nav-logo.svg" alt="Databricks" height="40"/>
-<img src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" alt="Apache Flink" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Apache Airflow" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="Apache Flink" height="40"/>
 
 ### Cloud & Infrastructure
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="40"/>
