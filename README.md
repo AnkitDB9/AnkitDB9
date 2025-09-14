@@ -37,13 +37,13 @@
 ## 🚀 Companies I've Worked With
 
 <div align="center">
-  <img src="https://github.com/ankitsharma97/AnkitSharma_GitHubProfile/raw/main/Airtel_idPqWEmf-E_1.png" alt="Airtel" height="50" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ankitsharma97/AnkitSharma_GitHubProfile/raw/main/Personify_Health_Logo_Stacked_Sunrise.png" alt="Personify Health" height="50"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ankitsharma97/AnkitSharma_GitHubProfile/raw/main/mathco-logo_brandlogos.net_l1wdw.png" alt="The Math Company" height="50"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ankitsharma97/AnkitSharma_GitHubProfile/raw/main/6102dbf43de48b00044eb5af.png" alt="Accenture" height="50"/>
+
+### 🏢 Professional Experience
+![Airtel](https://img.shields.io/badge/Airtel-E60012?style=for-the-badge&logo=airtel&logoColor=white)
+![Personify Health](https://img.shields.io/badge/Personify%20Health-0066CC?style=for-the-badge&logoColor=white)
+![The Math Company](https://img.shields.io/badge/The%20Math%20Company-FF6B35?style=for-the-badge&logoColor=white)
+![Accenture](https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white)
+
 </div>
 
 ---
