@@ -53,13 +53,16 @@
 <div align="center">
 
 ### 🔄 My Streaming Data Pipeline
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*fLFnmpKJfrvZRh-Jrl8wPg.png" alt="Streaming Pipeline Architecture" width="85%" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*Qysmnu4x8B-lV3DLxPCppw.png" alt="Streaming Pipeline Architecture" width="55%" />
 
 ### 🏗️ Architecture Components
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" height="40"/>
+<img src="https://www.apache.org/logos/res/airflow/airflow-1_highres.png" alt="Airflow" height="40"/>
+
+
+
 
 **Pipeline Flow:** `Real-time Data → Kafka → Spark Streaming → Snowflake → Analytics`
 
@@ -82,7 +85,7 @@
 ### Big Data & Streaming
 <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Apache Airflow" height="40"/>
+<img src="https://www.apache.org/logos/res/airflow/airflow-1_highres.png" alt="Apache Airflow" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="Apache Flink" height="40"/>
